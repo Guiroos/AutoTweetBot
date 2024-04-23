@@ -1,7 +1,7 @@
 {
   "name": "auto-tweet-discord-bot",
-  "version": "1.0.0",
   "description": "This application is a bot that automatically tweets the contents of the Discord channel to Twitter.",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": ""
